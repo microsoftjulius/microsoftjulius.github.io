@@ -16,7 +16,7 @@ export default function AboutMe(){
                         and Blockchain (Web3, Solidity). Proficient in database management (PostgreSQL, MySQL, MongoDB) and adept at crafting responsive web apps. 
                         Seeking new challenges in software development.
                     </p>
-                    <a href="/microsoftjulius.github.io/src/assets/pdf/cv.pdf" target="_blank"> <button className="btn-rounded btn btn-outline-primary mt-4">Download CV</button></a>
+                    <a href="/microsoftjulius.github.io/src/assets/pdf/cv.pdf" target="_blank"><button className="btn-rounded btn btn-outline-primary mt-4">Download CV</button></a>
                 </div>
             </div>
         </div>
