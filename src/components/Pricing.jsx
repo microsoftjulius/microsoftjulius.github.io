@@ -7,7 +7,7 @@ export default function Pricing(){
                 <div className="pricing-wrapper">
                     <div className="pricing-card">
                         <div className="pricing-card-header">
-                            <img className="pricing-card-icon" src="../microsoftjulius.github.io/src/assets/imgs/scooter.svg"
+                            <img className="pricing-card-icon" src="/src/assets/imgs/scooter.svg"
                                 alt="Image" />
                         </div>
                         <div className="pricing-card-body">
@@ -29,7 +29,7 @@ export default function Pricing(){
                     </div>
                     <div className="pricing-card">
                         <div className="pricing-card-header">
-                            <img className="pricing-card-icon" src="../microsoftjulius.github.io/src/assets/imgs/shipped.svg"
+                            <img className="pricing-card-icon" src="/src/assets/imgs/shipped.svg"
                                 alt="Image" />
                         </div>
                         <div className="pricing-card-body">
@@ -51,7 +51,7 @@ export default function Pricing(){
                     </div>
                     <div className="pricing-card">
                         <div className="pricing-card-header">
-                            <img className="pricing-card-icon" src="../microsoftjulius.github.io/src/assets/imgs/startup.svg"
+                            <img className="pricing-card-icon" src="/src/assets/imgs/startup.svg"
                                 alt="Image" />
                         </div>
                         <div className="pricing-card-body">

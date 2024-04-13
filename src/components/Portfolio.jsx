@@ -7,7 +7,7 @@ export default function Portfolio(){
             <div className="row">
             <div className="col-md-4">
             <a href="https://bac.ac.ug/" target="_blank" className="portfolio-card">
-                <img src="../microsoftjulius.github.io/src/assets/imgs/bac.png" className="portfolio-card-img" alt="image" />
+                <img src="/src/assets/imgs/bac.png" className="portfolio-card-img" alt="image" />
                 <span className="portfolio-card-overlay">
                     <span className="portfolio-card-caption">
                         <h4>College Management System</h4>
@@ -19,7 +19,7 @@ export default function Portfolio(){
 
                 <div className="col-md-4">
                     <a href="https://ugsms.com/" target="_blank" className="portfolio-card">
-                        <img className="portfolio-card-img img-responsive rounded" src="../microsoftjulius.github.io/src/assets/imgs/ugsms.png"
+                        <img className="portfolio-card-img img-responsive rounded" src="/src/assets/imgs/ugsms.png"
                             alt="image" />
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption">
@@ -30,7 +30,7 @@ export default function Portfolio(){
                 </div>
                 <div className="col-md-4">
                     <a href="http://20.84.92.118/" target="_blank" className="portfolio-card">
-                        <img className="portfolio-card-img img-responsive rounded" src="../microsoftjulius.github.io/src/assets/imgs/my_ug_online.png"
+                        <img className="portfolio-card-img img-responsive rounded" src="/src/assets/imgs/my_ug_online.png"
                             alt="image" />
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption">

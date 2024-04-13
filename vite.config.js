@@ -7,11 +7,11 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['/microsoftjulius.github.io/src/assets/vendors/jquery/jquery-3.4.1.js',
-      '/microsoftjulius.github.io/src/assets/vendors/bootstrap/bootstrap.bundle.js',
-      '/microsoftjulius.github.io/src/assets/css/meyawo.css',
-      '/microsoftjulius.github.io/src/assets/vendors/bootstrap/bootstrap.affix.js',
-      '/microsoftjulius.github.io/src/assets/js/meyawo.js'
+      external: ['//src/assets/vendors/jquery/jquery-3.4.1.js',
+      '//src/assets/vendors/bootstrap/bootstrap.bundle.js',
+      '//src/assets/css/meyawo.css',
+      '//src/assets/vendors/bootstrap/bootstrap.affix.js',
+      '//src/assets/js/meyawo.js'
     ]
     }
   }
