@@ -8,7 +8,7 @@ export default function Testimonial(){
                 <div className="col-md-6">
                     <div className="testimonial-card">
                         <div className="testimonial-card-img-holder">
-                            <img src="../src/assets/imgs/male.png" className="testimonial-card-img"
+                            <img src="../microsoftjulius.github.io/src/assets/imgs/male.png" className="testimonial-card-img"
                                 alt="image" style={{width: '100px'}}/>
                         </div>
                         <div className="testimonial-card-body text-justify">
@@ -20,7 +20,7 @@ export default function Testimonial(){
                 <div className="col-md-6">
                     <div className="testimonial-card">
                         <div className="testimonial-card-img-holder">
-                            <img src="../src/assets/imgs/male.png" className="testimonial-card-img"
+                            <img src="../microsoftjulius.github.io/src/assets/imgs/male.png" className="testimonial-card-img"
                                 alt="image" style={{width: '100px'}} />
                         </div>
                         <div className="testimonial-card-body">

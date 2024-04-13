@@ -5,7 +5,7 @@ export default function AboutMe(){
         <div className="container text-center">
             <div className="about">
                 <div className="about-img-holder">
-                    <img src="/src/assets/imgs/me.png" className="about-img"
+                    <img src="/microsoftjulius.github.io/src/assets/imgs/me.png" className="about-img"
                         alt="Julius Ssemakula" />
                 </div>
                 <div className="about-caption">
@@ -16,7 +16,7 @@ export default function AboutMe(){
                         and Blockchain (Web3, Solidity). Proficient in database management (PostgreSQL, MySQL, MongoDB) and adept at crafting responsive web apps. 
                         Seeking new challenges in software development.
                     </p>
-                    <a href="/src/assets/pdf/cv.pdf" target="_blank"><button className="btn-rounded btn btn-outline-primary mt-4">Download CV</button></a>
+                    <a href="/microsoftjulius.github.io/src/assets/pdf/cv.pdf" target="_blank"><button className="btn-rounded btn btn-outline-primary mt-4">Download CV</button></a>
                 </div>
             </div>
         </div>
