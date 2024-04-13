@@ -5,7 +5,7 @@ export default function AboutMe(){
         <div className="container text-center">
             <div className="about">
                 <div className="about-img-holder">
-                    <img src="../src/assets/imgs/me.png" className="about-img"
+                    <img src="https://microsoftjulius.github.io/assets/me-D1alfS8o.png" className="about-img"
                         alt="Julius Ssemakula" />
                 </div>
                 <div className="about-caption">
