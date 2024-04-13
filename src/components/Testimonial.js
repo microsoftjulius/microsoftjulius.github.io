@@ -25,7 +25,7 @@ export default function Testimonial(){
                         </div>
                         <div className="testimonial-card-body">
                             <p className="testimonial-card-subtitle text-justify">Working closely with Julius Ssemakula, 
-                            I've witnessed his exceptional skills in JavaScript, React, and Flask. 
+                            I have witnessed his exceptional skills in JavaScript, React, and Flask. 
                             His professionalism and commitment make him an ideal choice for any development project.</p>
                             <h6 className="testimonial-card-title">Matama Johnson</h6>
                         </div>
