@@ -8,7 +8,7 @@ export default function MyServices(){
                     <div className="col-md-6 col-lg-3">
                         <div className="service-card">
                             <div className="body">
-                                <img src="https://private-user-images.githubusercontent.com/32195353/322202861-2c223487-19a8-4ced-b94f-01d49a9d3d9a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwMDk0MjMsIm5iZiI6MTcxMzAwOTEyMywicGF0aCI6Ii8zMjE5NTM1My8zMjIyMDI4NjEtMmMyMjM0ODctMTlhOC00Y2VkLWI5NGYtMDFkNDlhOWQzZDlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEzVDExNTIwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5YTE1NWQ5NTkwNmY2MTY5ZWE0MzZjODMzOWJiZjk3ODRhNDBiYjFhZmNkZmFiMTdjNDllMjZlMzc1OGY5OWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pl-6zZ2GAx5mUZ62eRkinyqqiz4GKkH3oXBJvdzEwFs" alt="image" className="icon" style={{ width: '40px' }}/>
+                                <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="image" className="icon" style={{ width: '40px' }}/>
                                 <h6 className="title">Reactjs</h6>
                                 <p className="subtitle">Building interactive and responsive web applications with Reactjs.</p>
                             </div>
